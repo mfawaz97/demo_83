@@ -1,0 +1,15 @@
+{
+    "app_name": "83 Demo",
+    "_____________________dev_note_1_____________________": "Home Translations",
+    "grocery":"Grocery",
+    "news":"News",
+    "favorites":"Favorites",
+    "cart":"Cart",
+    "addr_dummy1":"Mustafa St.",
+    "addr_dummy2":"Oxford Street",
+    "product_search_hint":"Search in thousands of products",
+    "price_with_rep": "$%s",
+    "explore_cat": "Explore by Category",
+    "see_all_rep": "See All (%s)",
+    "day_deal": "Deals of the day"
+}
